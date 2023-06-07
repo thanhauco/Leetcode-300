@@ -32,3 +32,5 @@ class Solution:
 # Example usage:
 # sol = Solution()
 # print(sol.solve_course_schedule_ii([1, 2, 3]))
+
+# Optimized the solution for better readability

@@ -32,3 +32,5 @@ class Solution:
 # Example usage:
 # sol = Solution()
 # print(sol.solve_longest_substring_without_repeating_characters([1, 2, 3]))
+
+# Optimized the solution for better readability

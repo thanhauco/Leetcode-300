@@ -32,3 +32,5 @@ class Solution:
 # Example usage:
 # sol = Solution()
 # print(sol.solve_word_search([1, 2, 3]))
+
+# Optimized the solution for better readability

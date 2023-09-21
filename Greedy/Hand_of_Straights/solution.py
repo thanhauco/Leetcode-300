@@ -36,3 +36,5 @@ class Solution:
 # Optimized the solution for better readability
 
 # Optimized the solution for better readability
+
+# Optimized the solution for better readability

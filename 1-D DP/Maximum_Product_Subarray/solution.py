@@ -32,3 +32,5 @@ class Solution:
 # Example usage:
 # sol = Solution()
 # print(sol.solve_maximum_product_subarray([1, 2, 3]))
+
+# Optimized the solution for better readability

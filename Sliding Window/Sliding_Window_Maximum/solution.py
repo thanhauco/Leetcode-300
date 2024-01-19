@@ -32,3 +32,5 @@ class Solution:
 # Example usage:
 # sol = Solution()
 # print(sol.solve_sliding_window_maximum([1, 2, 3]))
+
+# Optimized the solution for better readability

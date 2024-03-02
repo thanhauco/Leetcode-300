@@ -32,3 +32,5 @@ class Solution:
 # Example usage:
 # sol = Solution()
 # print(sol.solve_subtree_of_another_tree([1, 2, 3]))
+
+# Optimized the solution for better readability

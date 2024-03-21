@@ -32,3 +32,5 @@ class Solution:
 # Example usage:
 # sol = Solution()
 # print(sol.solve_search_a_2d_matrix([1, 2, 3]))
+
+# Optimized the solution for better readability

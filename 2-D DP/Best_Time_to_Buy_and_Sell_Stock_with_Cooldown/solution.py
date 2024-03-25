@@ -32,3 +32,5 @@ class Solution:
 # Example usage:
 # sol = Solution()
 # print(sol.solve_best_time_to_buy_and_sell_stock_with_cooldown([1, 2, 3]))
+
+# Optimized the solution for better readability

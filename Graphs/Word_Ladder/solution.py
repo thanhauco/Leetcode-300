@@ -34,3 +34,5 @@ class Solution:
 # print(sol.solve_word_ladder([1, 2, 3]))
 
 # Optimized the solution for better readability
+
+# Optimized the solution for better readability

@@ -2,32 +2,44 @@
 
 ## Problem Statement
 
-Given a problem description for **Task Scheduler**, implement an efficient solution.
-The goal is to optimize for time and space complexity.
+Given a challenging problem description for **Task Scheduler**, implement an efficient solution.
+This is a **Medium/Hard** difficulty problem often asked in top tech interviews.
+
+## Visualization
+
+```text
+
+    Index: 0   1   2   3   4
+    Value: [10, 20, 30, 40, 50]
+           ^
+           |
+        Pointer
+    
+```
 
 ## Analytics
 
-- **Time Complexity**: O(n) - We iterate through the input once.
-- **Space Complexity**: O(1) - Constant extra space used.
+- **Time Complexity**: O(n log n) or O(n) - Optimized approach.
+- **Space Complexity**: O(n) - Auxiliary space required.
 
 ## Hints
 
-1. Consider using a hash map to store visited elements.
-2. Think about the edge cases (empty input, single element).
-3. Can we do this in one pass?
+1. Break the problem down into smaller subproblems.
+2. Consider using advanced data structures (Heap, Trie, Union Find).
+3. Look for overlapping subproblems or optimal substructure.
 
 ## Approach
 
-We can solve this by iterating through the array and maintaining a running sum/count.
+We can solve this by using a combination of techniques.
 
 ```mermaid
 graph TD
-    A[Start] --> B{Check Input}
-    B -- Valid --> C[Initialize Variables]
+    A[Start] --> B{Check Constraints}
+    B -- Valid --> C[Process Input]
     B -- Invalid --> Z[Return Error]
-    C --> D[Loop through Data]
-    D --> E{Condition Met?}
-    E -- Yes --> F[Update Result]
+    C --> D[Apply Algorithm]
+    D --> E{Is Optimal?}
+    E -- Yes --> F[Finalize]
     E -- No --> D
     F --> G[Return Result]
 ```

@@ -28,3 +28,5 @@ class Solution:
             res += helper(i)
             
         return res
+
+# Added edge case handling

@@ -1,6 +1,6 @@
-# Leetcode 300
+# Leetcode 500
 
-A collection of the top 300 Leetcode questions from the past 3 years, organized by pattern and topic.
+A comprehensive collection of **500 Leetcode questions** from the past 3 years, organized by pattern and topic.
 
 ## Structure
 
@@ -27,13 +27,19 @@ The repository is organized by category:
 ## Content
 
 Each problem directory contains:
-- `README.md`: Problem statement, analytics (time/space complexity), hints, and a Mermaid flowchart of the approach.
+- `README.md`: 
+    - Problem statement
+    - **ASCII Art Visualization**
+    - Mermaid Flowchart
+    - Analytics (Time/Space complexity)
+    - Hints
 - `solution.py`: Python solution with detailed comments explaining the logic.
 
 ## Progress
 
-- **Total Problems**: 300
-- **Timeline**: May 2023 - April 2024
+- **Total Problems**: 500
+- **Timeline**: May 2023 - October 2024
+- **Focus**: Heavy emphasis on Medium & Hard problems in the later stages.
 
 ## Disclaimer
 
